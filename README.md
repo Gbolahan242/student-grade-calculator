@@ -1,2 +1,9 @@
-# student-grade-calculator
-This helps to calculate student grade
+# Student Grade Calculator
+
+This project calculates total, average and result of a student.
+
+## Technologies
+HTML, CSS, JavaScript
+
+## SDLC
+Requirement Analysis, Design, Implementation, Testing, Deployment, Maintenance
